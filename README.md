@@ -4,6 +4,6 @@
 
 🎮 For past 3 years I been interested in VR as a consumer and as of last year I been learning how to use Unity & Blender to create my own content in a popular VR platform [VRChat](https://hello.vrchat.com/).
 
-🎨 Here's some of my artsy 3d/VR projects [ArtStation](https://www.artstation.com/milkysenpai) and also a video on [Twitter of one of my VR Worlds](https://twitter.com/vrpill/status/1298025290455814144)
+🎨 Here's some of my artsy 3d/VR projects [ArtStation](https://www.artstation.com/milkysenpai) and also a video on [Twitter of one of my VR Worlds](https://twitter.com/vrpill/status/1298025290455814144).
 
 🥰 Hope you have a great day 🥰
